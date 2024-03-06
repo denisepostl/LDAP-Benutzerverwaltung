@@ -6,4 +6,4 @@
 [users.ldif](https://github.com/denisepostl/LDAP-Benutzerverwaltung/blob/main/users.ldif) <br>
 [groups.ldif](https://github.com/denisepostl/LDAP-Benutzerverwaltung/blob/main/groups.ldif) <br><br><br>
 
-[Dokumentation]
+[Dokumentation](https://github.com/denisepostl/LDAP-Benutzerverwaltung)
