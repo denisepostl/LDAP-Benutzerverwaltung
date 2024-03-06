@@ -1,0 +1,56 @@
+dn: cn=office,ou=groups,dc=uif,dc=at
+objectClass: top
+objectClass: groupOfNames
+objectClass: posixGroup
+cn: office 
+gidNumber: 20000
+memberUid: 30000
+memberUid: 30001
+member: uid=bahlbeck,ou=users,dc=uif,dc=at
+member: uid=jberger,ou=users,dc=uif,dc=at
+
+
+
+dn: cn=production,ou=groups,dc=uif,dc=at
+objectClass: top
+objectClass: groupOfNames
+objectClass: posixGroup
+cn: production
+gidNumber: 20001
+memberUid: 30002
+memberUid: 30003
+memberUid: 30004
+memberUid: 30005
+member: uid=wheinrich,ou=users,dc=uif,dc=at
+member: uid=ndietrich,ou=users,dc=uif,dc=at
+member: uid=sschmidt,ou=users,dc=uif,dc=at
+member: uid=skohler,ou=users,dc=uif,dc=at
+
+
+
+dn: cn=administration,ou=groups,dc=uif,dc=at
+objectClass: top
+objectClass: groupOfNames
+objectClass: posixGroup
+cn: administration
+gidNumber: 20002
+memberUid: 30006
+memberUid: 30007
+memberUid: 30008
+memberUid: 30009
+member: uid=plorber,ou=users,dc=uif,dc=at
+member: uid=sretter,ou=users,dc=uif,dc=at
+member: uid=llazau,ou=users,dc=uif,dc=at
+member: uid=dpostl,ou=users,dc=uif,dc=at
+
+dn: cn=management,ou=groups,dc=uif,dc=at
+objectClass: top
+objectClass: groupOfNames
+objectClass: posixGroup
+cn: management
+gidNumber: 20003
+memberUid: 30010
+memberUid: 30011
+member: uid=vackermann,ou=users,dc=uif,dc=at
+member: uid=jwaldek,ou=users,dc=uif,dc=at
+

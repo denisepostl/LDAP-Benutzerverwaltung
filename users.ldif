@@ -1,0 +1,168 @@
+dn: uid=bahlbeck,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Ben Ahlbeck
+sn: Ahlbeck
+uid: bahlbeck
+uidNumber: 30000
+gidNumber: 20000
+homeDirectory: /home/bahlbeck
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=jberger,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Julia Berger
+sn: Berger
+uid: jberger
+uidNumber: 30001
+gidNumber: 20000
+homeDirectory: /home/jberger
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=wheinrich,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Walter Heinrich
+sn: Heinrich
+uid: wheinrich
+uidNumber: 30002
+gidNumber: 20001
+homeDirectory: /home/wheinrich
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=ndietrich,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Norbert Dietrich
+sn: Dietrich
+uid: ndietrich
+uidNumber: 30003
+gidNumber: 20001
+homeDirectory: /home/ndietrich
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=sschmidt,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Sarah Schmidt
+sn: Schmidt
+uid: sschmidt
+uidNumber: 30004
+gidNumber: 20001
+homeDirectory: /home/sschmidt
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=skohler,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Sven Kohler
+sn: Kohler
+uid: skohler
+uidNumber: 30005
+gidNumber: 20001
+homeDirectory: /home/skohler
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=plorber,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Philipp Lorber
+sn: Lorber
+uid: plorber
+uidNumber: 30006
+gidNumber: 20002
+homeDirectory: /home/plorber
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=sretter,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Simon Retter
+sn: Retter
+uid: sretter
+uidNumber: 30007
+gidNumber: 20002
+homeDirectory: /home/sretter
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=llazau,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Larissa Lazau
+sn: Lazau
+uid: llazau
+uidNumber: 30008
+gidNumber: 20002
+homeDirectory: /home/llazau
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=dpostl,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Denise Postl
+sn: Postl
+uid: dpostl
+uidNumber: 30009
+gidNumber: 20002
+homeDirectory: /home/dpostl
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=vackermann,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Verena Ackermann
+sn: Ackermann
+uid: vackermann
+uidNumber: 30010
+gidNumber: 20003
+homeDirectory: /home/vackermann
+loginShell: /bin/bash
+userPassword: Kennwort1
+
+dn: uid=jwaldek,ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Jonas Waldek
+sn: Waldek
+uid: jwaldek
+uidNumber: 30011
+gidNumber: 20003
+homeDirectory: /home/jwaldek
+loginShell: /bin/bash
+userPassword: Kennwort1
+

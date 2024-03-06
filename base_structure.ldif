@@ -1,0 +1,18 @@
+#Base
+dn: dc=uif,dc=at
+objectClass: dcObject
+objectClass: organization
+o: UIF
+
+
+#Gruppen
+dn: ou=users,dc=uif,dc=at
+objectClass: top
+objectClass: organizationalUnit
+ou: users
+
+dn: ou=groups,dc=uif,dc=at
+objectClass: top
+objectClass: organizationalUnit
+ou: groups
+
